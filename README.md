@@ -125,17 +125,6 @@ I investigate how diverse data modalities — vision, audio, text, and sensor da
 
 ---
 
-## Education
-
-| Degree | Institution | Period |
-|---|---|---|
-| **PhD in Data Science** | University of Greifswald | Apr 2025 – Present |
-| **MSc in Computer Science (AI)** | Azad University of Mashhad | 2015 – 2017 |
-| **MEng in Computer Science (AI)** | International University of Imamreza | 2011 – 2013 |
-| **BSc in Software Engineering** | Azad University of Mashhad | 2007 – 2011 |
-
----
-
 ## Selected Publications
 
 - **[2023]** *A comprehensive review of energy harvesting and routing strategies for IoT sensors sustainability and communication technology.* — **Sensors International** (Journal)
