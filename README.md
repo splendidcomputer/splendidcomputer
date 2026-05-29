@@ -1,7 +1,7 @@
 <div align="center">
 
 # Mostafa Razavi Ghods
-### AI Scientist · PhD Researcher · Beahvior Analysis . Human-Robot Interaction 
+### AI Scientist · PhD Researcher · Behavior Analysis . Human-Robot Interaction 
 
 
 </div>
